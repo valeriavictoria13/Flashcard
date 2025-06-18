@@ -4,9 +4,9 @@
     --card-back-color: #f5a9c9;
 }
 
-body{
-    background: url('./img/Fundo\ rosa.avif);
-     font-family: "Bai Jamjuree", sans-serif;
+body {
+    background: url('./img/fundo\ rosa.avif');
+    font-family: Bai Jamjuree;
 }
 
 #container{
