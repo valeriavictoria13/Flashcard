@@ -8,8 +8,8 @@ body{
 }
 
 .cartao{
-    margin: 1rem 1rem;
-    background-color: #FF4AD8;
+    /*margin: 1rem 1rem;*/
+    background-color: #8b3378;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem)
@@ -17,6 +17,8 @@ body{
 
 .cartao__conteudo{
     text-align: center;
+    background-color: rgb(223, 134, 223) ;
+    height: 100%;
 }
 
 
