@@ -1,7 +1,7 @@
 :root {
     --text-color: rgb(183, 107, 253);
     --card-front-color: #8b3378;
-    --card-back-color: #00F4BF;
+    --card-back-color: #fc056c;
 }
 body{
     background: url("img/Fundo rosa.avif")
