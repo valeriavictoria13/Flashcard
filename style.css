@@ -21,6 +21,9 @@ body{
     height: 100%;
 }
 
+.cartao__conteudo h3{
+    background-color: rgb(183, 107, 253);
+}
 
 
 
