@@ -2,6 +2,7 @@ criaCartao(
     'Cicatrização Natural',
     'Como fazer unguento pra feridas leves?',
     'Mistura-se babosa, mel e azeite morno. A aplicação ajuda na cicatrização e hidratação da pele.'
+)
 
 criaCartao(
     'Fitoterapia Digestiva',
@@ -12,5 +13,5 @@ criaCartao(
 criaCartao(
     'Banhos Terapêuticos',
     'Que elementos compõem um banho relaxante oriental?',
-    'Ervas como chá verde, cipreste e folhas de bambu, usadas para purificação e relaxamento'
+    'Ervas como chá verde, cipreste e folhas de bambu, usadas para purificação e relaxamento.'
 )
