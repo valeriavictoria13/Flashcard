@@ -15,3 +15,9 @@ criaCartao(
     'Que elementos compõem um banho relaxante oriental?',
     'Ervas como chá verde, cipreste e folhas de bambu, usadas para purificação e relaxamento.'
 )
+
+criaCartao(
+    'Veneno Oculto',
+    'Que planta era colocada secretamente em bebidas?',
+    'Beladona. Provoca delírios e pode matar.'
+)
