@@ -3,9 +3,10 @@
     --card-front-color: #8b3378;
     --card-back-color: #f5a9c9;
 }
+
 body{
-    background: url('img/Fundo rosa.avif')
-    font-family: Bai Jamjuree;
+    background: url('./img/Fundo\ rosa.avif);
+     font-family: "Bai Jamjuree", sans-serif;
 }
 
 #container{
