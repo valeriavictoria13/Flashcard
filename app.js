@@ -5,7 +5,7 @@ function criaCartao(categoria, pergunta, resposta) {
 
     cartao.innerHTML = `
      <div class="cartao__conteudo">
-                    <h3>Venenos</h3>
+                    <h3>${categoria}</h3>
                     <div class="cartao__conteudo__pergunta">
                         <p>Que planta contém alcaloides que causam paralisia?</p>
                         </div>
