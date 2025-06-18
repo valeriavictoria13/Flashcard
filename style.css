@@ -12,6 +12,8 @@ body {
 #container {
     display: flex; /*Elementos dispostos em linha*/
     flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 4rem
     
 }
 
