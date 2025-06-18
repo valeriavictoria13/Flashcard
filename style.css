@@ -11,7 +11,7 @@ body {
 
 #container{
     display: flex; /*Elementos dispostos em linha*/
-    display: flex;
+    
 }
 
 .cartao {
