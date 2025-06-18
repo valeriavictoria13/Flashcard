@@ -36,6 +36,9 @@ body{
     font-size: 1.5vw;
 }
 
+.cartao__conteudo__pergunta {
+    color: var(--text-color);
+}
 
 
 
