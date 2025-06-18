@@ -1,6 +1,6 @@
 :root {
     --text-color: rgb(183, 107, 253);
-    --card-front-color: #144480;
+    --card-front-color: #8b3378;
     --card-back-color: #00F4BF;
 }
 body{
@@ -21,6 +21,7 @@ body{
 }
 
 .cartao__conteudo{
+    background-color: var(--card-front-color);
     text-align: center;
     /*background-color: rgb(223, 134, 223) ; */
     height: 100%;
