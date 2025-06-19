@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Veneno Oculto',
-    'Que planta era colocada secretamente em bebidas?',
-    'Beladona. Provoca delírios e pode matar.'
+    'Acupuntura Tradicional',
+    'O que é acupuntura?',
+    'Técnica milenar chinesa que usa agulhas finas em pontos específicos para equilibrar a energia do corpo.'
 )
