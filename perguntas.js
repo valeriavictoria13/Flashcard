@@ -21,3 +21,15 @@ criaCartao(
     'O que é acupuntura?',
     'Técnica milenar chinesa que usa agulhas finas em pontos específicos para equilibrar a energia do corpo.'
 )
+
+criaCartao(
+    'Uso das Ervas',
+    'O que é fitoterapia?',
+    'É o uso de plantas medicinais em forma de chás, xaropes, pomadas e cápsulas para tratar doenças.'
+)
+
+criaCartao(
+    'Infusão Imunológica',
+    'Que infusão fortalece o sistema imune?',
+    ' Equinácea com gengibre. Estimula as defesas e ajuda a prevenir resfriados.'
+)
