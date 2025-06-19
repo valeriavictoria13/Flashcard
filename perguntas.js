@@ -1,13 +1,13 @@
 criaCartao(
-    'Cicatrização Natural',
-    'Como fazer unguento pra feridas leves?',
-    'Mistura-se babosa, mel e azeite morno. A aplicação ajuda na cicatrização e hidratação da pele.'
+    'Dermatologia Natural',
+    'Que planta limpa sem agredir a pele?',
+    'Hamamélis. Tem ação adstringente suave e remove impurezas.'
 )
 
 criaCartao(
-    'Fitoterapia Digestiva',
-    'Que planta alivia cólicas e gases?',
-    'Camomila com erva-doce, por suas propriedades calmantes e digestivas.'
+    'Fitocosmética',
+    'O que ajuda a controlar o brilho da pele?',
+    'Chá verde. Regula a oleosidade e fecha os poros.'
 )
 
 criaCartao(
@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Acupuntura Tradicional',
-    'O que é acupuntura?',
-    'Técnica milenar chinesa que usa agulhas finas em pontos específicos para equilibrar a energia do corpo.'
+    'Plantas Medicinais',
+    'Qual planta acelera a cicatrização da pele?',
+    'Babosa. Regenera tecidos, hidrata e alivia inflamações.'
 )
 
 criaCartao(
@@ -29,7 +29,25 @@ criaCartao(
 )
 
 criaCartao(
-    'Infusão Imunológica',
-    'Que infusão fortalece o sistema imune?',
-    ' Equinácea com gengibre. Estimula as defesas e ajuda a prevenir resfriados.'
+    'Cosmetologia Vegetal',
+    'Qual óleo vegetal hidrata sem obstruir os poros?',
+    ' Óleo de jojoba. É leve, regula o sebo e hidrata profundamente.'
+)
+
+criaCartao(
+    'Cólica Menstrual',
+    'O que ajuda em cólicas menstruais?',
+    ' Canela com gengibre. Relaxa o útero e reduz a dor.'
+)
+
+criaCartao(
+    'Máscara Caseira]',
+    'O que usar numa máscara facial calmante?',
+    'Aveia, mel e camomila. Suavizam a pele e reduzem vermelhidão.'
+)
+
+criaCartao(
+    'Fotoproteção Natural',
+    'Existe planta com leve ação protetora contra o sol?',
+    'Óleo de semente de framboesa. Possui antioxidantes e leve proteção UV.'
 )
