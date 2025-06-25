@@ -41,7 +41,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Máscara Caseira]',
+    'Máscara Caseira',
     'O que usar numa máscara facial calmante?',
     'Aveia, mel e camomila. Suavizam a pele e reduzem vermelhidão.'
 )
